@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, i'm rayane 👋
 
 <!--
 **bouw-rara1999/bouw-rara1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,13 +10,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... beginner in developement 
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+- 📫 send me a message
+- ⚡ i love languages 
 -->
-pijjpijnj
-**cv**
 
-# Mon cv🌟
+Contact me if you want to interest about my profil. 
 
-<p>czifhe zpiefjz ihce jz<p>
+
+## Who am I?🌟
+
+<p>I’m currently working on HTML CSS JS PHOTOSHOP and WORDPRESS🌀<p>
+<p> I’m looking to collaborate with someone qualified🤩<p>
+<p>I’m looking for help with photoshop🤬<p>
+<p>Ask me about anything related to computer🦋<p>
