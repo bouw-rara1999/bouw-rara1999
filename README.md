@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ i love languages 
 -->
 
-Contact me if you are interest about my profil. 
+Contact me if you are interest by my profil. 
 
 
 ## Who am I?🌟
